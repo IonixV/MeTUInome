@@ -1,0 +1,9 @@
+body {
+  background-image: linear-gradient(to top, rgb(0, 105, 158), rgb(12, 79, 139));
+    color: white;
+    text-align: center;
+}
+
+a {
+    color: cyan;
+}

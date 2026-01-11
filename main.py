@@ -6,6 +6,9 @@
 #|_____||_____|'.__.' |_____|      `.__.'    |_____|[___||__]'.__.' [___||__||__]'.__.' 
 # Created by IonixV, made for Flavortown!!!!
 
+print("If you recieve a ModuleNotFoundError exception right after this, colorama or pyfiglet is NOT INSTALLED!")
+print("These are depends! You need them to run this program!")
+
 import winsound
 from colorama import Fore, Back, Style
 # Sorry Linux Users!
